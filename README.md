@@ -41,4 +41,4 @@ Hints: manually experiment with the application before testing to understand its
 Create a single workflow that includes one job for each of the two test runners.
 
 When finished, demonstrate your exam progress to the instructor via the GitHub Actions web interface. Show the test runner output for each of the two jobs.
-![image](https://github.com/user-attachments/assets/42ecb198-e3fe-448e-b2fc-50bf08778078)
+
